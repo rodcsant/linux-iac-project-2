@@ -1,2 +1,3 @@
 # linux-project2-iac
-Bash script for provisioning Apache server (project for DIO/Impulso DevOps AWS bootcamp)
+Bash script for provisioning an Apache Server. IaC automation project for DIO/Impulso DevOps AWS bootcamp. 
+ 
